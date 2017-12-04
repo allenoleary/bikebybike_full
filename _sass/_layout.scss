@@ -476,10 +476,11 @@ ul.post-list	li {
 ul.post-list    li.next {
     background-color: $grey-color-light;
     padding: $spacing-unit / 2;
-    width: 39%;
+    width: 65%;
     float: left;
     margin-right:0;
     margin-left: 1%;
+    min-height:220px;
 
     @include media-query($on-laptop) {
     width: 90%;

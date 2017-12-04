@@ -507,10 +507,11 @@ ul.post-list li {
 ul.post-list li.next {
   background-color: #e0e0e0;
   padding: 15px;
-  width: 39%;
+  width: 65%;
   float: left;
   margin-right: 0;
-  margin-left: 1%; }
+  margin-left: 1%;
+  min-height: 220px; }
   @media screen and (max-width: 800px) {
     ul.post-list li.next {
       width: 90%;
