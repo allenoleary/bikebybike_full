@@ -1,0 +1,64 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: "Libre Baskerville", Libre, Georgia, Times, serif;/*"Helvetica Neue", Helvetica, Arial, sans-serif;*/
+$base-heading-font:	"Libre Baskerville", Libre, Georgia, Times, serif;
+$base-font-size:   18px;
+$base-font-weight: 400;
+$small-font-size:  16px;
+$base-line-height: 32px;
+$small-line-height: 24px;
+
+
+$spacing-unit:     30px;
+
+$text-color:       #010101;
+$background-color: #f6eae4;
+$brand-color:      #2a7ae2;
+$background-color-light: white /*#E8E8E8*/;
+$brand-color-light: #F2D6D6;
+
+
+$grey-color:       #474747;
+$grey-color-light: lighten($grey-color, 60%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    3000px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+$bordered:			3px double $grey-color;
+$bbb-left:  		25%;
+$bbb-right:			15%;
+
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;

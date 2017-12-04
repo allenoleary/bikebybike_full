@@ -1,0 +1,43 @@
+
+
+<footer class="site-footer">
+
+
+  <div class="wrapper">
+
+        <h2>{{ site.title }}</h2>
+        <p>{{ site.description }}</p>
+    
+        <ul class="social-media-list">
+        
+          <li>
+            <li><a href="http://www.facebook.com/allenoleary">Facebook me</a></li>
+            <li><a href="http://twiter.com/bikebybike">Tweet me</a></li>
+          </li>          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>Subscribe <a href="{{ "/get" | prepend: site.baseurl }}">via email</a></li>
+          <li>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
+        </ul>
+
+    
+
+        
+
+
+  </div>
+
+      <p>Agent 99</p>
+  
+
+
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70964215-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
