@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-14 00:00:50 +0000
 title: Interlude - Suffering
 permalink: /bikes/suffering/
-teaser : Enduring it, causing it, transcending it.
+teaser : The first noble truth of riding fast on a bike. Enduring it, causing it, transcending it.
 featureimg: /assets/a2-title.jpg
 twittercard : /assets/a2-twittercard.jpg
 colorback: DAEDED

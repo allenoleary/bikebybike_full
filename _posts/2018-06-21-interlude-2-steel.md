@@ -1,0 +1,133 @@
+---
+layout: page
+date:   2014-11-13 00:00:06 +0000
+title: Interlude - Steel up
+permalink: /bikes/interlude-steel
+teaser: Steel vs carbon is heart versus head.
+featureimg: /assets/a4-hartley1.jpg
+colorback: DAEDED
+---
+
+<div class="feature-image">
+<img src="/assets/a4-hartley1.jpg" style="max-height:500px"><br />
+<span class="caption">Candy-coated steel, a custom track bike from Caren Hartley.</span>
+</div>
+There is an eternal and ongoing debate in cycling circles about the relative merits of Carbon and Steel bikes. On the one side you have the Carbon crew who argue that Carbon is light and aero and stiff and on the other side you have the people who say that steel has a feel that can't be beaten, lasts longer and looks better.
+
+I am going to put my chips on the table and say that I would love a high end steel frame. And a high end carbon frame. I would follow the logic of materials in both cases and use the best tool for the job on the day. The one I would ride for out and out speed would be the aero optimised carbon and the one I would ride for pleasure and distance would be the steel.
+
+That's a helpful point of view isn't it?
+
+Most points here are settled: Carbon frames can be made lighter and stiffer and more aero and therefore they are objectively faster. If it weren't the pros wouldn't ride it. Carbon lasts just as long as steel, is less environmentally damaging to make frames from but impossible to recycle, so there are <a href="/bikes/22-guilt-trip/">pros and cons on that front</a>. There is the maker-aesthetic, the point that with steel bikes you can see what's going on, you can see the metal and the method of manufacture. That's a point about authenticity and visual appeal that I will make <a href="/bikes/23-london-hipster-fixie-thing/">in the next post about hipsters</a>, so I am going to park that one for the time being. This post is about riding bikes, not looking at them.
+
+
+Which leaves only one argument to have, and that's 'road feel'. 
+
+
+
+
+<div class="feature-image">
+<img src="/assets/a4-utlra.jpg" style="max-width:45%"><img src="/assets/a4-carbon.jpg" style="max-width:45%"><br />
+<span class="caption">Both right in their own ways...<br />Ultra Romance, poster boy of American freedom on a steel steed, rocks wool and retro steel. Cancellara rocks carbon and white lycra (urgh). <br />We know which one is going faster, but who is having more fun?</span>
+</div>
+
+Let's look at this a different way, let's ask why people love riding their steel bikes.
+
+
+A hundred years of development and understanding steel as a frame material counts for something. A good steel bike is a thing of beauty to ride and it's because of the very thing that most carbon bikes don't have, and that is flex.
+
+
+Push a steel bike with your foot at the bottom bracket and you can see it flex and spring back to shape. Being steel it doesn't flex far and it snaps back reliably for many millions of times before it will give way. It's that very flex that some people think is detracting from performance. That's part of what carbon is about, making a frame stiff enough to resist that flex because, surely, that flex means that some of the rider's precious energy is going into making the bike frame go sideways and not forward. There is naff all evidence to support this and a recent line of study has found that the energy loss at the back wheel with that flex is nil.
+
+
+Stiffness at all costs is worth pursuing if you are a racer, don't get me wrong. And the ability to shape a carbon frame into an aerofoil shape in order to cheat the wind is definitely worth pursuing if you want to be going as fast as possible - an aero tube can have ten times less drag than a round tube. Even so, because the vast majority of drag is created by the rider and not the bike the difference in your speed when riding very fast is around 5% and when riding below 30kph is diddly squat.
+
+
+It's also worth noting that the average speed of the cycle racers is much more affected by what drugs they can get away with taking than what their frame is made of. The record times on Alpe de Huez were made on EPO and the kinds of bikes you can now buy at Halfords for a weeks gross salary. Todays clean(er) riders don't get near those times.
+
+<div class="feature-image">
+<img src="/assets/a4-cervelo.jpg" style="max-height:500px"><br />
+<span class="caption">Proper fast - a Cervelo</span>
+</div>
+
+
+
+Assuming you are riding clean, the faster you go the more carbon counts. Carbon as a material really is amazing and is the perfect material to create the fastest possible bikes out of. Using CAD you can design and vary - and even breed with algorhythms - frame designs and carbon layups to get pretty much any set of behaviours you want. Think of how round the world yachts are designed - they put typical weather systems and the course into very fast computers and then model what the fastest hull shape would be; then they build it in carbon. You could do the same with bikes - you could model the Tour de France and then create bikes that are, on average, better for that particular route and the bio-metrics of a particular rider.
+
+
+The Cervelo above, or the secret-squirrel British Olympic tracks bikes are probably the current best example of the relentless pursuit of speed in carbon bike form. Again it's worth remembering that such athletes are producing three to five times more power than us mortals, so what feels 'flexy' for a pro probably feels overly rigid to me.
+
+
+But what you throw away in the relentless pursuit of performance is 'feel'. What a bike feels like is a complex brew of things like geometry matching your own, how heavy you are, what type of wheels you have, what the tubes are made of, how the tubes themselves are shaped, what sizes they are.
+
+
+<div class="feature-image">
+<img src="/assets/a4-field.jpg" style="max-height:500px"><br />
+<span class="caption">Proper lush - A Field Cycles custom road bike</span>
+</div>
+
+
+There is a thing with steel. Putting a bunch of lightweight steel tubes into the classic double diamond configuration has a kinesthetic signature. The frame twists as you ride. As you pull up on one arm and push down with the other leg the frame twists from the rear axle up along the tubes and into the head tube, deflecting ever so slightly. And then 1/90th of a second later it twists the other way. That twisting back and forth creates a resonant wave. Good steel frames feel like they are humming, like a tuning fork.
+
+
+And flex is useful. I changed the forks on my Salsa from carbon to steel and the whole thing rode much better - there was more flex but it was helpful, I could feel what the front wheel was doing better, like I had better whiskers. I noticed the improvement in ride quality more than I noticed the extra weight.
+
+
+Carbon bikes can mimic this. In the last few years the phrase 'vertically compliant and horizontally stiff' is used endlessly to describe carbon bikes. You can make carbon compliant but that is subtly different to flex.
+
+
+Flex might also be faster in the end. There's a school of thought that says that a degree of flex reduces muscular fatigue - on a carbon frame you are essentially 'hitting' it with muscular load and the resulting solid thwack damages your muscles. With the flex of a steel frame the edge is taken off that muscular beating and you fatigue less.
+
+
+If you were buying a bike only with your head there is no argument, carbon wins. If you are buying a bike with a body attached to that head then the choice is less clear. If you add a beating heart and a passion for something that sings into the mix, then steel starts to come out on top. When people write about carbon bikes they tend to write about how fast or good they are, when people write about steel bikes they often talk about the bikes more like you would talk about a pet. The difference is, I think, telling.
+
+
+<div class="feature-image">
+<img src="/assets/a4-talbot.jpg" style="max-height:500px"><br />
+<span class="caption">A custom Talbot 4 Seasons</span>
+</div>
+
+
+
+I'll leave the last word on steel to my old mate and bike mechanic supremo Oli. He is well known for having a collection of steel Bianchis and you will not find a single gram of Shimano product on any of them.
+
+
+<div class="feature-image">
+<img src="/assets/a4-bianchi.jpg" style="max-height:500px"><br />
+<span class="caption">1 of 3 of Oli's celeste Bianchis</span>
+</div>
+
+
+One day someone gave him a top level carbon Trek frame, he built it up and this is what happened:
+
+
+_Talking of road bikes, before Christmas I took 1h 45m to build myself a Trek - well on the 6th of January after only three rides it took me exactly 1h 11m to reverse the process! Two shortish rides on the flat started to tell me what I already knew, and a third hilly test loop confirmed, for me at least, the truism that steel is real._
+
+
+_Now, I'm not blaming the Trek - it's a fine bike, and way better than I require - but to me the Bianchi sings where the Trek hums. The final straw was taking the OCLV up a climb we used to call the Alpe d'Huez - I know that climb like the back of my hand, and it's a favourite test ride. I could definitely feel the kilogram I'd saved when seated climbing, but when I stood up to give it some welly the Trek felt stiff and light and good, but for some deeply inherent tactile reasons I really missed the springy flex of Columbus steel._
+
+
+A good steel frame is now more expensive to make than a cookie-cutter mid-level carbon bike. And in the quest for better and faster marketing cycles the cycling industry loves carbon because it gives it a better material to innovate with. And what some would consider an advantage in a custom steel frame - infinite possibilities of design and choice - can put off those who want someone to tell them what they need. Not to mention that the very best steel frames will set you back £3,500 and you'll have to wait two years.
+
+
+Steel, and particularly custom steel, has a big place in cycling. Steel can be personal in a way it's hard to imagine with carbon. Here's Oli on his latest frame, a lovely classic steel number from a local maker in NZ, Benson:
+
+
+_There's nothing like riding a bicycle that has been crafted specifically for you by a talented artisan, an artisan who also happens to be a friend with the sort of direct insight into my riding preferences that not many frame builders could, or would, have. I've already clocked up quite a few massively enjoyable kilometres in the saddle of this fine steed, and I plan to clock up many, many more._
+
+<div class="feature-image">
+<img src="/assets/a4-benson.jpg" style="max-height:500px"><br />
+<span class="caption">Oli's Benson; If you want a Benson you had better count him as a friend before you ask.</span>
+</div>
+
+
+Like me Oli's not going to win the 'Wednesday Night World Championships' any time soon. The benefit of the Benson is not performance, the benefit is that it will get him out on his bike more because he will enjoy the ride more.
+
+
+At the speed I ride the friendliness my Salsa counts for more than the performance gain from the Onix. For beating other people I would have to have the Onix, for winning the game of life I would take the Salsa.
+
+
+And then the's the craft of it. Really, can we ignore this? if I were going to throw two or three thousand pounds at a bike frame you could do a lot worse than a custom steel frame from a skilled maker. Instead of more words from me I am going to simply put a load of images of steel bikes here, from the cheap to the very expensive, so you can see what I mean...
+
+
+Next chapter: [The London Hipster Fixie thing](/bikes/23-london-hipster-fixie-thing/)

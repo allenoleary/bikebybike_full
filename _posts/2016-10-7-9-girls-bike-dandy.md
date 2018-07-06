@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-13 00:00:49 +0000
 title: 9. Girl's bike Dandy
 permalink: /bikes/9-girls-bike-dandy/
-teaser : From the sublime to the ridiculous and back
+teaser : From the sublime to the ridiculous and beyond / An abandoned girls bike
 featureimg: /assets/9-title.jpg
 colorback: EDF8FD
 ---

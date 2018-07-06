@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-12 00:00:49 +0000
 title: 10. A bike found three times
 permalink: /bikes/10-bike-found-three-times/
-teaser : Revelations and reappearances - a mountain bike
+teaser : A whole new world of fun / KHS Montana Sport MTB
 featureimg: /assets/10-title.jpg
 colorback: FFFDEC
 ---

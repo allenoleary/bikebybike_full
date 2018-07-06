@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-14 00:00:58 +0000
 title: 2. The Difficult Second Bicycle
 permalink: /bikes/2-the-difficult-second-bike/
-teaser : More than any other bike I have owned, this one started as one thing and ended as another. The same could be said of my life at the time.
+teaser : Three speeds, 26inch wheels, two brakes. As new. Perfect. Only one problem...
 tag: bike
 category: bikes
 featureimg: /assets/2-title.jpg

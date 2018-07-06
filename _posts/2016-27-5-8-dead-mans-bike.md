@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-14 00:00:49 +0000
 title: 8. Dead Man's Bike
 permalink: /bikes/8-dead-mans-bike/
-teaser : My last racing bike for my last road bikes races.
+teaser : The best bike I ever didn't own / ALAN racing bike
 featureimg: /assets/8-title.jpg
 colorback: EDF9ED
 ---

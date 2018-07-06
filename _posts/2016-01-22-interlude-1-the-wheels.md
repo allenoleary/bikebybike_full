@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-14 00:00:54 +0000
 title: Interlude - The Wheels
 permalink: /bikes/the-wheels/
-teaser : In which I buy my first set of proper wheels - an important moment for the fledgling racer.
+teaser : A $100 for a set of wings / Campgnolo record hubs, fiamme red label tubular rims
 featureimg: /assets/a1-title.jpg
 twittercard : /assets/a1-twittercard.jpg
 colorback: EDF9ED

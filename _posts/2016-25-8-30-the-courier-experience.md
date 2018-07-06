@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-12 00:00:48 +0000
 title: 11. The Courier Experience
 permalink: /bikes/11-the-courier-experience/
-teaser : Not another cog in the machine (man).
+teaser : Not another cog in the machine (man) / Any bike will do
 featureimg: /assets/11-title.jpg
 colorback: EDF8FD
 ---

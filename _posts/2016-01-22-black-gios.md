@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-14 00:00:53 +0000
 title: 5. Gios Negra
 permalink: /bikes/5-gios-negra/
-teaser : Now, down to some serious racing...
+teaser : Boy racer feeling the burn / A classic steel racing bike
 featureimg: /assets/5-title.jpg
 twittercard : /assets/5-twittercard.jpg
 colorback: DAEDED

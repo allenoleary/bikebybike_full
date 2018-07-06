@@ -575,6 +575,19 @@ blockquote {
   padding: 10px;
   margin: 0; }
 
+table {
+  margin-left: 25%; }
+
+td, th {
+  background-color: white;
+  padding: 12px; }
+
+ul {
+  list-style-position: inside; }
+
+li {
+  padding-left: 5%; }
+
 /**
  * Syntax highlighting styles
  */

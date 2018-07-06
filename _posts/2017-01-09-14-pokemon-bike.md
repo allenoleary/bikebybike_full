@@ -3,7 +3,7 @@ layout: page
 date:   2014-11-13 00:00:45 +0000
 title: 14. A bike is a bike is a bike
 permalink: /bikes/14-a-bike-is-a-bike-is-a-bike/
-teaser : Melbourne and the joy of crappy bikes.
+teaser : Melbourne and the joy of crappy bikes / A heavy old 10 speed
 featureimg: /assets/14-title.jpg
 colorback: EDF9ED
 ---

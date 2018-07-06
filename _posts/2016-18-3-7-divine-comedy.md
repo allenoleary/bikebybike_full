@@ -3,7 +3,7 @@ layout: page
 date:   2015-11-14 00:00:50 +0000
 title: 7. The Divine Comedy
 permalink: /bikes/7-the-divine-comedy/
-teaser : A bike of uncertain make - and learning to laugh
+teaser : Two medals ever and learning to laugh / A steel racing bike of unknown year and provenence
 featureimg: /assets/7-title.jpg
 colorback: EDF9ED
 ---

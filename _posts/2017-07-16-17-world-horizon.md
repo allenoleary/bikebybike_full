@@ -3,7 +3,7 @@ layout: page
 date:   2014-11-13 00:00:40 +0000
 title: 17. World Horizon
 permalink: /bikes/17-world-horizon/
-teaser : A horizon is something that you take with you.
+teaser : Looking around the UK / Ridgeback World Horizon touring bike
 featureimg: /assets/17-title.jpg
 colorback: EDF9ED
 ---
